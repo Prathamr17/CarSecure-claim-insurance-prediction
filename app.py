@@ -23,7 +23,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
 st.set_page_config(     
     page_title="Insurance Claim Prediction",
     page_icon="🚗",
